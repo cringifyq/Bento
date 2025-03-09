@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: '7oda',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
